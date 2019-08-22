@@ -1,0 +1,2 @@
+Mech+1 is a mod which enhances the default Terraria mechanisms by new items, tiles, and functionality to make it easier for anyone building advanced logic gates.
+For more information visit https://github.com/menticore/MechPlusOne
